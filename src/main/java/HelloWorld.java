@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("This is commit from feature to master");
         System.out.println("This demo for no conflict");
         System.out.println("This demo");
+        System.out.println("This commit is for git rebase from intelliJ");
     }
     void hello(){
         
